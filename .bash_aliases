@@ -1,2 +1,2 @@
 # For sail artisan
-alias sail='sh ./docker/sail'
+alias sa='./docker/sail artisan'
